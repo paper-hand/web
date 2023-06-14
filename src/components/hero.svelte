@@ -1,7 +1,7 @@
 <section class="px-4 text-center flex flex-col items-center justify-center relative">
   <Blob />
   <div class="z-1 relative">
-    <h1 class="font-black text-5xl lg:text-7xl sm:max-w-[600px] lg:max-w-[700px] mb-2 lg:mb-4">{TAGLINE}</h1>
+    <h1 class="font-black text-4xl sm:text-5xl lg:text-7xl sm:max-w-[600px] lg:max-w-[700px] mb-2 lg:mb-4">{TAGLINE}</h1>
     <p class="relative text-md lg:text-lg font-medium bg-white px-3 py-1 rounded-lg inline-block shadow-lg border-brand border-2">
       {COUNTDOWN}
     </p>
