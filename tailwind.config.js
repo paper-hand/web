@@ -8,9 +8,7 @@ export default {
       },
       colors: {
         brand: {
-          DEFAULT: '#472183',
-          DEFAULTk: '#FF0066'
-          // 700: '',
+          DEFAULT: '#511281',
         }
       },
     }
