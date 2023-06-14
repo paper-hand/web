@@ -1,0 +1,12 @@
+/** Button **/
+.button {
+  @apply font-medium border-2 border-brand text-brand text-center px-4 rounded-md py-2 hover:bg-brand transition hover:text-white;
+
+  &--thick {
+    @apply bg-brand text-white;
+
+    &:hover {
+      @apply opacity-90;
+    }
+  }
+}

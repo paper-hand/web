@@ -1,1 +1,7 @@
-<h1>Paperhand IO</h1>
+<div class="font-serif text-black">
+  <Header />
+</div>
+
+<script>
+  import Header from '../components/header.svelte'
+</script>

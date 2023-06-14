@@ -1,0 +1,12 @@
+body {
+  color: #202020;
+  background-color: #fff;
+}
+
+a {
+  @apply transition;
+
+  &:not(.button) {
+    @apply hover:underline;
+  }
+}
