@@ -1,6 +1,6 @@
 <header class="py-6 px-8 w-full flex items-center justify-between">
   <div class="inline-flex items-center">
-    <a href="/" class="w-[150px] lg:w-[180px] text-brand inline-block">
+    <a href="/" class="w-[150px] lg:w-[180px] inline-block">
       <Logo />
     </a>
     <nav class="ml-20 hidden md:block font-medium">
@@ -17,7 +17,7 @@
       </ul>
     </nav>
   </div>
-  <a href="#signup" role="button" class="button button--thick hidden md:block">{ACCESS_TEXT}</a>
+  <a href="#signup" role="button" class="button">{ACCESS_TEXT}</a>
 </header>
 
 <script>

@@ -2,5 +2,9 @@
   "APP_NAME": "PaperHand",
   "TAGLINE": "What if we made the Blockchain social?",
   "COUNTDOWN": "...December 2023",
-  "ACCESS_TEXT": "Join the Waitlist"
+  "ACCESS_TEXT": "Join the Waitlist",
+  "PH_CONTACT_EMAIL": "hello@paperhand.io",
+  "PH_CONTACT_TWITTER": "@PaperHandIO",
+  "PH_CONTACT_TWITTER_URL": "https://twitter.com/paperhandio",
+  "DISCLAIMER": "By submitting your email address on our website, you agree to receive official product communication from us. We will not share your email with any third-party companies or use it for any other purpose without your consent. You can unsubscribe from our emails at any time by clicking the unsubscribe link in the footer of our emails."
 }
