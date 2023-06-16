@@ -1,11 +1,13 @@
 <svelte:head>
   <title>{APP_NAME} - {APP_TAGLINE}</title>
+  <meta name="description" content="{APP_DESCRIPTION}" />
   <meta property="og:type" content="website">
   <meta property="og:url" content="{APP_URL}"/> 
   <meta property="og:title" content="{APP_NAME}"/>  
-  <meta name="description" content="{APP_DESCRIPTION}" />
   <meta property="og:description" content="{APP_DESCRIPTION}"/>
-  <meta property="og:image" content="/graph.jpg">
+  <meta property="og:image" content="{APP_URL}/graph.jpg">
+  <meta property="twitter:title" content="{APP_NAME}"/> 
+  <meta property="twitter:image" content="{APP_URL}/graph.jpg"/> 
 </svelte:head>
 
 <script>
