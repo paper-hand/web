@@ -1,6 +1,6 @@
 <header class="py-6 px-5 w-full flex items-center justify-between">
   <div class="inline-flex items-center">
-    <a href="/" class="w-[150px] lg:w-[180px] inline-block">
+    <a title="Go Home" href="/" class="w-[150px] lg:w-[180px] inline-block">
       <Logo />
     </a>
     <nav class="ml-10 hidden md:block font-medium">
