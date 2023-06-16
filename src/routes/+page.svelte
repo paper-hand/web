@@ -2,7 +2,7 @@
   <Header />
   <div class="md:flex md:flex-row md:justify-center md:items-center">
     <Hero />
-    <div class="md:border-l md:border-gray md:px-10 md:ml-10 py-10">
+    <div id="waitlist" class="md:border-l md:border-gray md:px-10 md:ml-10 py-10">
       <Signup />
     </div>
   </div>

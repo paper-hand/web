@@ -1,4 +1,4 @@
-<div class="space-x-10 md:space-x-20 text-lg md:text-xl font-medium tracking-wide px-5 pb-2 flex justify-center items-center">
+<div class="flex-col md:flex-row md:space-x-10 md:space-x-20 text-lg md:text-xl font-medium tracking-wide px-5 pb-2 flex justify-center items-center">
   <p>
     <a title="Twitter" href="{PH_CONTACT_TWITTER_URL}" target="_blank">
       <span><TwitterLogo /></span>

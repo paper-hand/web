@@ -1,5 +1,8 @@
 {
-  "APP_NAME": "PaperHand",
+  "APP_NAME": "Paper Hand",
+  "APP_URL": "https://paperhand.io",
+  "APP_TAGLINE": "Join the conversation",
+  "APP_DESCRIPTION": "Be part of the conversation that is shaping the future of communities on the Blockchain and beyond",
   "TAGLINE": "What if we made the Blockchain social?",
   "COUNTDOWN": "...December 2023",
   "ACCESS_TEXT": "Join the Waitlist",

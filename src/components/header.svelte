@@ -17,7 +17,7 @@
       </ul>
     </nav>
   </div>
-  <a href="#signup" role="button" class="button">{ACCESS_TEXT}</a>
+  <a href="#waitlist" role="button" class="button">{ACCESS_TEXT}</a>
 </header>
 
 <script>
