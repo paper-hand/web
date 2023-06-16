@@ -6,6 +6,7 @@
   <meta property="og:title" content="{APP_NAME}"/>  
   <meta property="og:description" content="{APP_DESCRIPTION}"/>
   <meta property="og:image" content="{APP_URL}/og_img.jpg">
+  <meta name="twitter:card" content="summary" />
   <meta property="twitter:title" content="{APP_NAME}"/> 
   <meta property="twitter:image" content="{APP_URL}/og_img.jpg"/> 
 </svelte:head>
