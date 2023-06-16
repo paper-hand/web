@@ -5,9 +5,9 @@
   <meta property="og:url" content="{APP_URL}"/> 
   <meta property="og:title" content="{APP_NAME}"/>  
   <meta property="og:description" content="{APP_DESCRIPTION}"/>
-  <meta property="og:image" content="{APP_URL}/graph.jpg">
+  <meta property="og:image" content="{APP_URL}/og_img.jpg">
   <meta property="twitter:title" content="{APP_NAME}"/> 
-  <meta property="twitter:image" content="{APP_URL}/graph.jpg"/> 
+  <meta property="twitter:image" content="{APP_URL}/og_img.jpg"/> 
 </svelte:head>
 
 <script>
