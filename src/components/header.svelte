@@ -1,18 +1,18 @@
-<header class="py-6 px-8 w-full flex items-center justify-between">
+<header class="py-6 px-5 w-full flex items-center justify-between">
   <div class="inline-flex items-center">
     <a href="/" class="w-[150px] lg:w-[180px] inline-block">
       <Logo />
     </a>
-    <nav class="ml-20 hidden md:block font-medium">
-      <ul class="inline-flex space-x-8">
+    <nav class="ml-10 hidden md:block font-medium">
+      <ul class="inline-flex space-x-2">
         <li>
-          <a href="#home">Home</a>
+          <LinkWen url="#home" title="Home" />
         </li>
         <li>
-          <a href="#about">About</a>
+          <LinkWen url="#about" title="About" />
         </li>
         <li>
-          <a href="#signup">Signup</a>
+          <LinkWen url="#signup" title="Signup" />
         </li>
       </ul>
     </nav>
@@ -22,6 +22,7 @@
 
 <script>
   import Logo from './svg/logo.svelte'
+  import LinkWen from './link-wen.svelte'
   import { APP_NAME, ACCESS_TEXT } from '$lib/data.json'
   export const logoAlt = `${APP_NAME} Logo`
 </script>
