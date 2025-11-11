@@ -3,19 +3,6 @@
     <a title="Go Home" href="/" class="w-[150px] lg:w-[180px] inline-block">
       <Logo />
     </a>
-    <nav class="ml-10 hidden md:block font-medium">
-      <ul class="inline-flex space-x-2">
-        <li>
-          <LinkWen url="#home" title="Home" />
-        </li>
-        <li>
-          <LinkWen url="#about" title="About" />
-        </li>
-        <li>
-          <LinkWen url="#signup" title="Signup" />
-        </li>
-      </ul>
-    </nav>
   </div>
   <a href="#waitlist" role="button" class="button">{ACCESS_TEXT}</a>
 </header>
