@@ -1,0 +1,17 @@
+/** Button **/
+.button {
+  @apply font-medium border-2 text-center px-4 rounded-md py-2 transition hover:text-white;
+
+  &--thick {
+    /*@apply bg-brand text-white;*/
+    @apply text-white;
+
+    &:hover {
+      @apply opacity-90;
+    }
+  }
+}
+
+.form-input {
+  @apply border rounded-md px-4 py-2;
+}

@@ -12,7 +12,7 @@
         </div>
         <div id="mce-responses" class="clear foot">
           <div class="response text-red-500 font-medium" id="mce-error-response" style="display:none"></div>
-          <div class="response text-brand font-medium" id="mce-success-response" style="display:none"></div>
+          <div class="response font-medium" id="mce-success-response" style="display:none"></div>
         </div>
         <p class="leading-4 mt-4">
           <small class="text-xs text-gray-500">{DISCLAIMER}</small>
@@ -35,7 +35,7 @@
 
   :global(div.mce_inline_error) {
     background: none !important;
-    @apply !text-red-500 !p-0 !mt-1 !font-medium;
+    /*@apply text-red-500 !p-0 !mt-1 !font-medium;*/
   }
 </style>
 

@@ -1,3 +1,10 @@
+<script>
+  import Header from '../components/header.svelte'
+  import Footer from '../components/footer.svelte'
+  import Hero from '../components/hero.svelte'
+  import Signup from '../components/signup-mailchimp.svelte'
+</script>
+
 <div class="font-serif text-black min-h-full max-w-[1440px] mx-auto">
   <Header />
   <div class="md:flex md:flex-row md:justify-center md:items-center">
@@ -8,10 +15,3 @@
   </div>
   <Footer />
 </div>
-
-<script>
-  import Header from '../components/header.svelte'
-  import Footer from '../components/footer.svelte'
-  import Hero from '../components/hero.svelte'
-  import Signup from '../components/signup-mailchimp.svelte'
-</script>

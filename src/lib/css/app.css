@@ -1,4 +1,4 @@
 @import './variables.css';
-@import './tailwind.css';
+@import 'tailwindcss';
 @import './core.css';
 @import './form.css';

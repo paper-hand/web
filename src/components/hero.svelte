@@ -18,7 +18,7 @@
 
   h1 {
     @media screen(md) {
-      text-shadow: 1px 1px 2px theme('colors.brand.DEFAULT');
+      text-shadow: 1px 1px 2px #000000;
     }
   }
 </style>
